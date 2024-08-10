@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_app">Weather App</string>
+    <string name="min_18_max_18">min:18 max:18</string>
+    <string name="min_temp">min: temp</string>
+    <string name="max_temp">max: temp</string>
+    <string name="_1000">1000</string>
+    <string name="degree">Degree:-</string>
+    <string name="speed">Speed</string>
+</resources>
